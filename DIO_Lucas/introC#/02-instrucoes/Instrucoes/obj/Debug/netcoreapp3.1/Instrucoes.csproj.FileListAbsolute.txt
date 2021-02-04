@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.exe
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.deps.json
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.runtimeconfig.json
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.dll
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.pdb
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.dll
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.pdb
+C:\Users\Lucas\Desktop\DIO\02-instrucoes\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.genruntimeconfig.cache

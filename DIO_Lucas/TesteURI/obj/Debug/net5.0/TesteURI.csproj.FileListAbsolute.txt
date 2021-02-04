@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\DIO\TesteURI\bin\Debug\net5.0\TesteURI.exe
+C:\Users\Lucas\Desktop\DIO\TesteURI\bin\Debug\net5.0\TesteURI.deps.json
+C:\Users\Lucas\Desktop\DIO\TesteURI\bin\Debug\net5.0\TesteURI.runtimeconfig.json
+C:\Users\Lucas\Desktop\DIO\TesteURI\bin\Debug\net5.0\TesteURI.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DIO\TesteURI\bin\Debug\net5.0\TesteURI.dll
+C:\Users\Lucas\Desktop\DIO\TesteURI\bin\Debug\net5.0\ref\TesteURI.dll
+C:\Users\Lucas\Desktop\DIO\TesteURI\bin\Debug\net5.0\TesteURI.pdb
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.dll
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\ref\TesteURI.dll
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.pdb
+C:\Users\Lucas\Desktop\DIO\TesteURI\obj\Debug\net5.0\TesteURI.genruntimeconfig.cache
